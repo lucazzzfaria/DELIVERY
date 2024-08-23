@@ -1,0 +1,129 @@
+@import url(global.css);
+
+.body{
+    padding: 2rem 5.5rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+}
+
+.text-red{
+    font-size: 1.5rem;
+    color: #BD1919;
+    font-weight: bold;
+}
+
+.order-1{
+    display: flex;
+    align-items: center;
+}
+.infos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.price{
+    color: #0E0808;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.quantity{
+   align-items: center;
+   display: flex;
+}
+.product-1{
+    font-size: 1.5rem;
+    color: #0E0808;
+    font-weight: bold;
+    width: 60%;
+}
+.content-order{
+    display: flex;
+    margin-left: 6rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+.content-order-span{
+    width: 60%;
+}
+
+.value{
+        margin-left: 2rem;
+        width: 20%;
+        border-color: #BD1919;
+        border-radius: 0.75rem;
+        border-width: 0.2rem;
+        border-style: solid;
+        margin-right: 1.5rem;
+        height: 1.5rem;
+        height: 20rem;
+}
+.prices{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 2rem;
+    height: 62.5%;
+}
+
+.text-gray{
+    color: #858585;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.text-black{
+    color: #0E0808;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.text-red{
+    color: #BD1919;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.padding{
+    padding: 0rem 2rem;
+}
+
+.flex{
+    display: flex;
+ }
+
+ .box{
+    width: 17.5rem;
+    border-color: #BD1919;
+    border-radius: 5rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    margin-right: 1.5rem;
+    height: 1.5rem;
+ }
+
+ .button{
+    width: 15rem;
+    background-color: #BD1919;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    height: 2rem;
+ }
+
+ .button span{
+    font-size: 1.25rem;
+ }
+
+ .margin-box{
+    margin-left: 1rem;
+ }
+
+ .margin-top{
+    margin-top: 1.5rem;
+ }
+
+ .gap{
+    gap: 0.5rem;
+ }

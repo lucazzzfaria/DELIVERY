@@ -1,0 +1,86 @@
+@import url(global.css);
+
+
+.grand-logo{
+    margin-left: 7%;
+    display: flex;
+    align-items: center;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 15%;
+}
+
+.title{
+    font-size: 2rem;
+    color: #BD1919;
+    font-weight: bold;
+
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.subtittle{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 27%;
+}
+
+.button {
+    width: 15rem;
+    background-color: #BD1919;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    height: 2rem;
+
+    margin-bottom: 5rem;
+}
+
+.contact{
+    margin: 5rem;
+}
+
+
+.flex{
+    display: flex;
+ }
+
+ .text-gray{
+    color: #858585;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.margin-box{
+    margin-left: 1rem;
+ }
+ 
+
+.box{
+    width: 17.5rem;
+    border-color: #BD1919;
+    border-radius: 5rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    margin-right: 1.5rem;
+    height: 1.5rem;
+ }
+
+ .big-box{
+    width: 17.5rem;
+    border-color: #BD1919;
+    border-radius: 1rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    margin-right: 1.5rem;
+    height: 12.5rem;
+
+ }
+
+
+ 

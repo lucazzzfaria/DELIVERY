@@ -1,0 +1,93 @@
+@import url(global.css);
+
+.title{
+    font-size: 2rem;
+    color: #BD1919;
+ font-weight: bold;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.body{
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+.filter{
+    width: 10%;
+    margin-top: 2rem;
+    border-color: #BD1919;
+    border-radius: 1rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    padding: 1.25rem;
+    height: 10%;
+
+}
+
+.text-black{
+    font-size: 1.2rem;
+}
+.box{
+    border-color: #BD1919;
+    border-radius: 0.25rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.mini-margin{
+    margin-left: 1.5rem;
+}
+
+.margin-button{
+    margin-bottom: 0.5rem;
+}
+
+.list{
+    margin-top: 1rem;
+}
+
+.margin-button-1{
+    margin-bottom: 1rem;
+}
+
+.line-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.line-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5rem
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 200px;
+}
+.texts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name{
+    color: #5E5E5E;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.price{
+    color: #BD1919;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.products{
+    margin-left: 5%;
+}

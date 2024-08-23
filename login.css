@@ -1,0 +1,85 @@
+@import url(global.css);
+
+
+
+
+.body{
+    display: flex;
+}
+
+ .left{
+    width: 50%;
+    align-items: center;
+    display: flex;
+    padding-top: 5rem;
+    flex-direction: column;
+ }
+
+ .right{
+    width: 50%;
+    background-color: #F4CC3C;
+    align-items: center;
+    display: flex;
+    padding-top: 5rem;
+    flex-direction: column;
+ }
+
+ .login-title{
+    color: #BD1919;
+    font-size: 2.75rem;
+    font-weight: bold;
+ }
+
+
+ .fields{
+    font-weight: bold;
+    font-size: 2rem;
+    color: #BD1919;
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    justify-content: center;
+ }
+
+
+ .space{
+    margin-bottom: 7.5rem;
+ }
+
+
+
+ .box{
+    margin-left: 2rem;
+    width: 17.5rem;
+    border-color: #BD1919;
+    border-radius: 5rem;
+    border-width: 0.2rem;
+    border-style: solid;
+    margin-right: 1.5rem;
+    height: 1.5rem;
+ }
+
+ .flex{
+    display: flex;
+    align-items: center;
+ }
+
+ .button{
+    width: 15rem;
+    background-color: #BD1919;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    height: 2rem;
+ }
+
+ .button span{
+    font-size: 1.25rem;
+ }
+
+ .space-button{
+    margin-top: 10rem
+ }
+
+ 

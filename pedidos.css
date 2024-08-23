@@ -1,0 +1,92 @@
+@import url(global.css);
+
+
+.title-orders{
+    font-size: 1.5rem;
+    color: #BD1919;
+    font-weight: bold;
+}
+
+.body{
+    margin-left: 10%;
+    margin-top: 2rem;
+}
+
+.orders{
+    margin-top: 2rem;
+}
+
+.product-1{
+    font-size: 1.5rem;
+    color: #0E0808;
+    font-weight: bold;
+}
+
+.price{
+    color: #0E0808;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.quantity{
+    color: #BD1919;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.order-1{
+    display: flex;
+    align-items: center;
+}
+
+.infos{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content-order{
+    display: flex;
+    margin-left: 6rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.order{
+    font-size: 1.5rem;
+    color: #858585;
+    font-weight: bold;
+    display: flex;
+    justify-content: end;
+    max-width: 84%;
+}
+
+
+.total-order{
+    color: #BD1919;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.total-price{
+    color: #0E0808;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.total{
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.line{
+    width: 100%;
+    border-style: hidden;
+    background-color: #BD1919;
+}
+
+.width{
+    width: 100%;
+}
